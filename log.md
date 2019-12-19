@@ -23,7 +23,7 @@
 
 ### Day 3: December 18, 2019 
 
-**Today's Progress**: Completed 3 exercises on Codewar.com. Woohoo, got ranked up, now I can vote on beta kata (according to notification).
+**Today's Progress**: Completed 3 exercises on Codewar.com. Woohoo, got ranked up, now I can vote on beta kata (according to the notification).
 
 **Thoughts:** Need to know more arrays and better to gear with some recursion tricks for future problem solving.
 
