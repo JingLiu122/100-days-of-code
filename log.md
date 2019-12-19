@@ -31,3 +31,12 @@
 1. [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106)
 2. [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 3. [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
+
+### Day 4: December 19, 2019 
+
+**Today's Progress**: Completed a somewhat algorithm exercises on Codewar.com. 
+
+**Thoughts:** The runtime of the algorithm is: O(n^2). Improve it.
+
+**Link to work:** 
+1. [Tribonacci Sequence](https://www.codewars.com/kata/tribonacci-sequence/train/javascript)
