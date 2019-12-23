@@ -45,7 +45,7 @@
 
 **Today's Progress**: Started and relearned recursion, completed two recursion exercises on Codewar.com and a permutation question on leetcode.com (cheated a bit). 
 
-**Thoughts:** Too difficult to come up a recursion solution (hope one day I will get better with recursion).
+**Thoughts:** Too difficult to come up with a recursive solution (hope one day I will get better with recursion).
 
 **Link to work:** 
 1. [Recursion #1 - Factorial](https://www.codewars.com/kata/5694cb0ec554589633000036)
