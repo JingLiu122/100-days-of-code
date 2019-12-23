@@ -40,3 +40,17 @@
 
 **Link to work:** 
 1. [Tribonacci Sequence](https://www.codewars.com/kata/tribonacci-sequence/train/javascript)
+
+### Day 5: December 22, 2019 (skip two days)
+
+**Today's Progress**: Started and relearned recursion, completed two recursion exercises on Codewar.com and a permutation question on leetcode.com (cheated a bit). 
+
+**Thoughts:** Too difficult to come up a recursion solution (hope one day I will get better with recursion).
+
+**Link to work:** 
+1. [Recursion #1 - Factorial](https://www.codewars.com/kata/5694cb0ec554589633000036)
+2. [Recursion #2 - Fibonacci](https://www.codewars.com/kata/569512b7707bc1b88200002f)
+3. [Permutations](https://leetcode.com/submissions/detail/287592113/)
+
+
+
