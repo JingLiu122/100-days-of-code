@@ -52,5 +52,12 @@
 2. [Recursion #2 - Fibonacci](https://www.codewars.com/kata/569512b7707bc1b88200002f)
 3. [Permutations](https://leetcode.com/submissions/detail/287592113/)
 
+### Day 6: December 23, 2019
 
+**Today's Progress**: Started to learn React, followed its official documentation tutorials (tic-tac-toe game).
+
+**Thoughts:** Need to understand and get use to passing 'state' between components.
+
+**Link to work:** 
+1. [Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html#lifting-state-up)
 
