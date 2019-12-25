@@ -61,3 +61,12 @@
 **Link to work:** 
 1. [Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html#lifting-state-up)
 
+### Day 7: December 24, 2019
+
+**Today's Progress**: Continued to practice recursion problem.
+
+**Thoughts:** Need to practice more on how to creating a recursive solution faster!
+
+**Link to work:** 
+1. [Factorial division](https://www.codewars.com/kata/factorial-division/train/javascript)
+2. [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
