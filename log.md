@@ -70,3 +70,12 @@
 **Link to work:** 
 1. [Factorial division](https://www.codewars.com/kata/factorial-division/train/javascript)
 2. [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
+
+### Day 8: December 26, 2019 (skip a day)
+ 
+**Today's Progress**: Solved a fundamental problem on CodeWar for warm up. Continued to practice recursion problem.
+
+**Thoughts:** Need to practice more on how to creating a recursive solution faster!
+
+**Link to work:** 
+1. [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
