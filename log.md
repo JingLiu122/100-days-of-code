@@ -79,3 +79,12 @@
 
 **Link to work:** 
 1. [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
+
+### Day 9: December 27, 2019 
+ 
+**Today's Progress**: Back to practicing ReactJS and CSS. 
+
+**Thoughts:** Want to extend the offical tutorial tic-tac-toe game. Also I need to understand more CSS flex-box position.
+
+**Link to work:** 
+1. [Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html#lifting-state-up)
