@@ -88,3 +88,13 @@
 
 **Link to work:** 
 1. [Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html#lifting-state-up)
+
+### Day 10: December 31, 2019 
+ 
+**Today's Progress**: Done two problems on CodeWars.com
+
+**Thoughts:** 
+
+**Link to work:** 
+1. [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212)
+2. [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
