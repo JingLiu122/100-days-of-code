@@ -98,3 +98,15 @@
 **Link to work:** 
 1. [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212)
 2. [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5)
+
+### Day 11: January 3, 2020 (Skip 2 days)
+ 
+**Today's Progress**: Done three problems on CodeWars.com.
+
+**Thoughts:**
+
+**Link to work:** 
+1. [Squash the bugs](https://www.codewars.com/kata/56f173a35b91399a05000cb7)
+2. [Tip Calculator](https://www.codewars.com/kata/56598d8076ee7a0759000087)
+3. [Dave's gamble](https://www.codewars.com/kata/563b8a23b554206f49000059)
+
