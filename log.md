@@ -110,3 +110,12 @@
 2. [Tip Calculator](https://www.codewars.com/kata/56598d8076ee7a0759000087)
 3. [Dave's gamble](https://www.codewars.com/kata/563b8a23b554206f49000059)
 
+### Day 12: January 4, 2020
+ 
+**Today's Progress**: Done two problems on CodeWars.com.
+
+**Thoughts:** Better to have those JS object methods in mind, so no need to keep referencing the docs when solving a problem.
+
+**Link to work:** 
+1. [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)
+2. [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
