@@ -119,3 +119,13 @@
 **Link to work:** 
 1. [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086)
 2. [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+
+### Day 13: January 6, 2020
+ 
+**Today's Progress**: Done two problems on CodeWars.com.
+
+**Thoughts:** Learned how to terminate the reduce() method under a condition.
+
+**Link to work:** 
+1. [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
+2. [Simple Fun #37: House Numbers Sum](https://www.codewars.com/kata/58880c6e79a0a3e459000004)
