@@ -129,3 +129,19 @@
 **Link to work:** 
 1. [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
 2. [Simple Fun #37: House Numbers Sum](https://www.codewars.com/kata/58880c6e79a0a3e459000004)
+
+### Day 14: January 14, 2020 (Skip 1 week)
+ 
+**Today's Progress**: Warm up the JS skills on CodeWars.com with some fundamental questions.
+
+**Thoughts:** **Learned flat(), concat(), and reduce() for flatten an array**
+
+**Link to work:** 
+1. [Flatten](https://www.codewars.com/kata/5250a89b1625e5decd000413)
+2. [JavaScript Array Filter](https://www.codewars.com/kata/514a6336889283a3d2000001)
+3. [No oddities here](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce)
+4. [Training JS #5: Basic data types--Object](https://www.codewars.com/kata/571f1eb77e8954a812000837)
+5. [Training JS #3: Basic data types--String](https://www.codewars.com/kata/571edea4b625edcb51000d8e)
+6. [Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/532b4057484b0e58e8000766)
+
+
