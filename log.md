@@ -130,6 +130,7 @@
 1. [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)
 2. [Simple Fun #37: House Numbers Sum](https://www.codewars.com/kata/58880c6e79a0a3e459000004)
 
+
 ### Day 14: January 14, 2020 (Skip 1 week)
  
 **Today's Progress**: Warm up the JS skills on CodeWars.com with some fundamental questions.
@@ -145,3 +146,11 @@
 6. [Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/532b4057484b0e58e8000766)
 
 
+### Day 15: January 15, 2020 
+ 
+**Today's Progress**: Try to solve the Tetris Scoring System problem on Codewars.com
+
+**Thoughts:** Only passed the basic tests, not the random tests.
+
+**Link to work:** 
+1. [Tetris Series #1 — Scoring System](https://www.codewars.com/kata/5da9af1142d7910001815d32)
