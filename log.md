@@ -154,3 +154,12 @@
 
 **Link to work:** 
 1. [Tetris Series #1 — Scoring System](https://www.codewars.com/kata/5da9af1142d7910001815d32)
+
+### Day 16: January 16, 2020 
+ 
+**Today's Progress**: Still trying to solve the Tetris Scoring System problem on Codewars.com, can't pass the random test.
+
+**Thoughts:** Think about this: (Note that after increasing the level, the total number of cleared lines is not reset)
+
+**Link to work:** 
+1. [Tetris Series #1 — Scoring System](https://www.codewars.com/kata/5da9af1142d7910001815d32)
