@@ -163,3 +163,13 @@
 
 **Link to work:** 
 1. [Tetris Series #1 — Scoring System](https://www.codewars.com/kata/5da9af1142d7910001815d32)
+
+### Day 17: Febraury 4, 2020 (Skip 18 days)
+ 
+**Today's Progress**: Finally solved the Tetris Scoring System problem on Codewars.com, now the soultion can passed the random test.
+
+**Thoughts:** "Note that after increasing the level, the total number of cleared lines is not reset" -- level variable shouldn't reset to 0, instead of declared a new variable called "LEVEL_SCORE" with an initial value 10, and used this variable to increment per 10 when a level is increasing. Resetting the level variable will miss out some lines when a level is increasing.
+
+**Link to work:** 
+1. [Tetris Series #1 — Scoring System](https://www.codewars.com/kata/5da9af1142d7910001815d32)
+2. [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
