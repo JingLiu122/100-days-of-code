@@ -173,3 +173,13 @@
 **Link to work:** 
 1. [Tetris Series #1 — Scoring System](https://www.codewars.com/kata/5da9af1142d7910001815d32)
 2. [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
+
+### Day 18: Febraury 5, 2020
+ 
+**Today's Progress**: Learned es6 destrucutring assignment on objects and arrays on freecodecamp.com. Solved 1 problem on codewars.com
+
+**Thoughts:** get a brief understanding of in-place algorithm/array defintion.
+
+**Link to work:** 
+1. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+
